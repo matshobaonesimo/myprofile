@@ -1,0 +1,56 @@
+h1.name{
+    text-align:center;
+}
+
+    img{
+        border-radius:25% ;
+        height: 350px;
+        width:250px ;
+        padding:10 ;
+    }
+
+div .absolute
+{
+    position:center;
+    bottom: 10px;
+    width:100% ;
+    border:radius 3pxsolid #8AC007 ;
+}
+.bibcontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 900px;
+    
+    width: 100%;
+}
+
+.excontainer{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 20px;
+    justify-content: center;
+    width: 100%;
+}
+.center{
+    text-align: center;
+} 
+h3{width: 100px;
+    color: black;
+    text-align: center;
+    margin:auto;
+}
+button{
+    background-color: #4CAF50; /* Green*/
+    border-radius: 25px;
+    color: azure;
+    padding: 15px 32px;
+    text-align:center ;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.experienceblock{
+    background-color: lightblue;
+    justify-items: center;
+    min-width: 200px;
+}
