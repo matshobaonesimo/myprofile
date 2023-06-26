@@ -4,10 +4,12 @@
 body {
     margin: 0;
     padding: 0;
+    background-image: url('https://i.pinimg.com/originals/a0/55/34/a055340b2a53a06cdd281bf671813f71.jpg');
 }
 
 h1.name {
     text-align: center;
+    color: grey;
 }
 
 img {
@@ -28,8 +30,8 @@ div .absolute {
     display: grid;
     grid-template-columns: auto auto auto auto;
     column-gap: 50%;
-
     width: 100%;
+    color: blanchedalmond;
 }
 
 .excontainer {
@@ -46,7 +48,7 @@ div .absolute {
 
 h3 {
     width: 100px;
-    color: black;
+    color: grey;
     text-align: center;
     margin: auto;
 }
@@ -65,15 +67,15 @@ button {
 
 .experienceblock {
     background-color: lightblue;
-    justify-items: center;
+    justify-items: left;
     min-width: 200px;
 }
 
 nav {
     margin-top: auto;
     height: 50px;
-    background-color: black;
-    position:top;
+    background-color: gold;
+    position:top;   
 }
 
 nav ul {
