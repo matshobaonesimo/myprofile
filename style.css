@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+} 
+ body{
+    background-image: url('Web-Development.webp');
+    background-size: cover;
+}
+
+nav {
+    margin-top: auto;
+    height: 50px;
+    background-color: gold;
+    position:top fixed;  
+    
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 25px;
+    font-size: large;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
+.row2{
+    width: 400px;
+    height: 400px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.row1{
+    width: 700px;
+    height: 400px;
+}
+.icons img{
+    width: 35px;
+    height: 35;
+}
+#ico{
+    height: 100%;
+}
+#SKILLS{
+    height: 100%;
+}
